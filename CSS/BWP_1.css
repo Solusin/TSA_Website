@@ -1,0 +1,31 @@
+/*{
+  border:1px dashed black; 
+}*/
+.BWP_1_HEADER{
+  border:1px solid black;
+  height:100px;
+  background-color:#747A5E;
+  border-radius:5px;
+  margin-top:-20px;
+  box-shadow:5px 5px 5px black;
+}
+#BWP_1_HEADER_NAVAGATION{
+  border:1px solid black;
+  height:90px;
+  border-radius:5px;
+  width:1204px;
+  margin-top:-30px;
+  margin-left:20px;
+}
+html{
+  background-color:#8F88A8; 
+}
+.BWP_1_NAVAGATION{
+  height:989px;
+  background-color:#747A5E;
+  width:150px;
+  border:1px solid black;
+  border-radius:5px;
+  margin-top:40px;
+  box-shadow:5px 5px 5px black;
+}
